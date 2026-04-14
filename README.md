@@ -20,7 +20,7 @@ This skill reads your recent Claude Code sessions, identifies your "gray straigh
 claude install-skill https://github.com/BayramAnnakov/coin-flip-skill
 ```
 
-Or manually: copy `coin-flip.md` to `~/.claude/commands/coin-flip.md`
+Or manually: copy to `~/.claude/skills/coin-flip/SKILL.md`
 
 ## Usage
 

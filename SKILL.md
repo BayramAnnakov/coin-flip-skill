@@ -1,4 +1,5 @@
 ---
+name: coin-flip
 description: Analyze your last 7 days of conversations and suggest one pattern-breaking, luck-maximizing thing to do
 ---
 
