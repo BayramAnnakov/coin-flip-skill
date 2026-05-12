@@ -19,7 +19,7 @@ This skill reads your recent Claude Code sessions, identifies your "gray straigh
 ## Install
 
 ```bash
-claude install-skill https://github.com/BayramAnnakov/coin-flip-skill
+npx skills add BayramAnnakov/coin-flip-skill -g -y
 ```
 
 Or manually: copy to `~/.claude/skills/coin-flip/SKILL.md`
